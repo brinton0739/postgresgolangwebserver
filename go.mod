@@ -1,4 +1,4 @@
-module github.com/brinton0739/postgresgolangwebserver.git
+module github.com/brinton0739/postgresgolangwebserver
 
 go 1.22.0
 
